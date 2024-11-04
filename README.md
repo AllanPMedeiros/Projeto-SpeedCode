@@ -1,3 +1,3 @@
 # Projeto-SpeedCode
 Projeto SpeedCode adaptado do modelo original da semana do zero ao programador contratado do canal DevEmDobro
-![Captura de Tela (26)](https://github.com/user-attachments/assets/ce1d378b-4672-403a-88ba-9d98f7c6e17b)
+![FotoReadMe git](https://github.com/user-attachments/assets/0c09281d-37ab-4e82-8ff7-73f2b28f73fe)
